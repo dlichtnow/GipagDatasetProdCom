@@ -2,6 +2,8 @@
 
 Dataset que reúne, em dois arquivos distintos, dados públicos relativos à produção e comercialização de frutas e hortaliças no Brasil. Para compor o dataset foram extraídos dados do Sistema IBGE de Recuperação Automática (SIDRA), da Companhia Nacional de Abastecimento (CONAB) e Censo Demográfico. O objetivo é reunir estes dados em um único dataset de forma a facilitar a análise de pesquisadores interessados evitando a necessidade de realização de diversas consultas. A extração foi feita com o uso de bibliotecas da linguagem Python, em especial Selenium
 
+O dataset é formado por dois arquivos em formato CSV: um relacionado a fruticultura e outro a horticultura. Aqui eles estão disponibilizados no formato original e compactados (juntos e separados).
+
 <html>
 
 <body lang=PT-BR>
