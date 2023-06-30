@@ -4,6 +4,8 @@ Dataset que reúne, em dois arquivos distintos, dados públicos relativos à pro
 
 O dataset é formado por dois arquivos em formato CSV: um relacionado a fruticultura e outro a horticultura. Aqui eles estão disponibilizados no formato original e compactados (juntos e separados).   
 
+Já o arquivo DatasetCompletoUF é o script usado para realizar as extrações dos dados.
+
 <html>
 
 <body lang=PT-BR>
